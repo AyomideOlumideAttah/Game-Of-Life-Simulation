@@ -80,6 +80,10 @@ Want to contribute a pattern, optimize performance, or add features?
 5. Submit a Pull Request
 
 ---
+## 🧑‍💻 Author
+**Ayomide Olumide-Attah**
+
+Math & CS double major at Fisk University
 
 ## 📜 License
 
