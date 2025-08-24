@@ -31,7 +31,7 @@ def run(config_name, speed: float=10):
     time.sleep(5)
 
     i = 0
-    while i < 200:
+    while i < 2000:
         time.sleep(1 / speed)
         screen.update()
 
